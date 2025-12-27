@@ -18,10 +18,3 @@ I am a Radar Algorithm Engineer & Chief Engineer based in Changsha.
 - Edge AI for Signal Processing
 - Advanced FPGA Acceleration
 📫 **How to reach me:** CharleyChang@gmail.com
-
----
----
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dr-CharleyChang&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dr-CharleyChang&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
-</div>
